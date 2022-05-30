@@ -2,7 +2,7 @@
 
 ## Devstack Student Internship Program
 
-### Domain: Data Science Intern
+### Domain: Data Science & AI Intern
 
 **Task-2:** Color Detection System
 
@@ -10,7 +10,7 @@
 
 **Technology Used:** Python, Pandas, OpenCV
 
-**Code Editor:** VS Code
+**Code Editor:** Jupyter Notebook
 
    Copyright (c) 2022 Karan Doke batch May
   
