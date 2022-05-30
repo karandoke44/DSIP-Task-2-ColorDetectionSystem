@@ -4,7 +4,7 @@
 
 ### Domain: Data Science & AI Intern
 
-**Task-2:** Color Detection System
+**Task-2 :** Color Detection System
 
 **Dataset:** https://github.com/codebrainz/color-names/blob/master/output/colors.csv
 
